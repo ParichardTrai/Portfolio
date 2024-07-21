@@ -178,4 +178,19 @@ order by total_monetary desc
 
 ```
 # Conclusion
-- 
+Based on the analysis, we can categorize the segments into the following 5 groups:
+1.High Potential Customers:
+- Segments: Champions, Potential Loyalists, and Loyal customers.
+- Marketing Strategy: Focus on retaining and engaging with these segments due to their significant contribution to total sales and profit.
+2.Engagement Opportunities:
+- Segments: New Customers and Promising.
+- Marketing Strategy: Implement strategies to increase engagement and order frequency to maximize their long-term value.
+3.At-Risk Customers:
+- Segment: At Risk.
+- Marketing Strategy:  Consider offering exclusive promotions for this group.
+4.Reactivation Strategies:
+- Segment: Hibernating Customers and Lost Customers.
+- Marketing Strategy: Develop targeted reactivation strategies to re-engage with these customers and win back their business.
+5.Small but Valuable:
+- Segment: Cannot Lose Them.
+- Marketing Strategy: Despite a small customer base, this segment contributes significantly. Strengthen loyalty through personalized strategies, such as offering a variety of promotion formats to users.
