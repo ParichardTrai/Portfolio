@@ -50,9 +50,9 @@ cleaning and preprocessing, Conversation Analysis, Labeling sentiment analysis, 
 
 ## RFM Analysis 
 
-**Code:** 
+**Code:** [RFM Analysis with SQL](https://github.com/ParichardTrai/Portfolio/blob/main/project/RFM%20Analysis%20with%20SQL.md)
 
-**Visualization:** 
+**Visualization:** [RFM Analysis](https://github.com/ParichardTrai/Portfolio/blob/main/project/RFM%20Analysis.pbix)
 
 **Goal:**  To understand customer behavior and accurately target marketing efforts for each customer segment.
 
