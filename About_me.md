@@ -16,4 +16,4 @@ This is a repository to showcase skills, share projects and track my progress in
 
 ## Table of Contents 
 
-- [About](https://github.com/ParichardTrai/Portfolio/blob/main/About me.md#about)
+- [About](https://github.com/ParichardTrai/Portfolio/blob/main/About_me.md#about)
