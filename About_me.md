@@ -19,7 +19,7 @@ This is a repository to showcase skills, share projects and track my progress in
 - [About](https://github.com/ParichardTrai/Portfolio/blob/main/About_me.md#about)
 - [Portfolio Projects](https://github.com/ParichardTrai/Portfolio/blob/main/About_me.md#Portfolio-Projects)
   - Social listening Project
-    - [Real estate Analysis](https://github.com/ParichardTrai/Portfolio#Real-estate-Analysis)  
+    - [Real estate Analysis](https://github.com/ParichardTrai/Portfolio/blob/main/About_me.md#Real-estate-Analysis)
   - SQL Project
     - [RFM Analysis](https://github.com/ParichardTrai/Portfolio#RFM-Analysis)
   - Power Bi Project
