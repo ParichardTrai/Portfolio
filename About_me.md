@@ -33,9 +33,9 @@ This is a repository to showcase skills, share projects and track my progress in
 
 ## Real estate Analysis 
 
-**Visualization:** 
+**Visualization:** [Real Estate Analysis](https://github.com/ParichardTrai/Portfolio/blob/main/project/Real%20Estate%20Analysis.pbix)
 
-**Presentation:** 
+**Presentation:** [Real Estate Analysis Presentation](https://github.com/ParichardTrai/Portfolio/blob/main/project/Real%20Estate%20Analysis%20Presentation.pdf)
 
 **Goal:** Analyze the overall performance of the brand from March 26 to April 7.
 
