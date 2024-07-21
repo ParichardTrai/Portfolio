@@ -21,14 +21,16 @@ This is a repository to showcase skills, share projects and track my progress in
   - Social listening Project
     - [Real estate Analysis](https://github.com/ParichardTrai/Portfolio/blob/main/About_me.md#Real-estate-Analysis)
   - SQL Project
-    - [RFM Analysis](https://github.com/ParichardTrai/Portfolio#RFM-Analysis)
+    - [RFM Analysis](https://github.com/ParichardTrai/Portfolio/blob/main/About_me.md#RFM-Analysis)
   - Power Bi Project
-    - [HR Analytics](https://github.com/ParichardTrai/Portfolio#HR-Analytics)
-    - [Customer Churn Analysis](https://github.com/ParichardTrai/Portfolio#Customer-Churn-Analysis)
+    - [HR Analytics](https://github.com/ParichardTrai/Portfolio/blob/main/About_me.md#HR-Analytics)
+    - [Customer Churn Analysis](https://github.com/ParichardTrai/Portfolio/blob/main/About_me.md#Customer-Churn-Analysis)
+  - Excel Project
+- Education
+- Certificates
+- Contact
     
 # Portfolio Projects
-
-# Social listening Project
 
 ## Real estate Analysis 
 
@@ -47,8 +49,6 @@ cleaning and preprocessing, Conversation Analysis, Labeling sentiment analysis, 
 
 **Tool:** Google Sheet, Power Bi and Canva
 
-# SQL Project
-
 ## RFM Analysis 
 
 **Code:** 
@@ -64,8 +64,6 @@ Data loading, Data cleaning and Preprocessing, Data analysis and Data Visualizat
 Data cleaning, Data analysis and Data visualization.
 
 **Tool:** PostgreSQL and Power Bi 
-
-# Power Bi Project
 
 ## HR Analytics 
 
@@ -92,4 +90,21 @@ Data Modelling, performing exploratory data analysis (EDA), Data analysis and Da
 **Skills:**  Data Modelling, Data Analysis Expression (DAX),  Data analysis and Data visualization
 
 **Tool:** Power Bi 
+
+# Education
+**Thammasart University**
+AUG 2020 - DEC 2023
+- Bachelor of Arts Program in Library and Information Science
+**Suksanareewittaya School**
+2013-2018
+
+# Certificates
+- [Social Listening - Data Analyst Edition by DataRockie](https://github.com/ParichardTrai/Portfolio/blob/main/Certificates/Socail%20listening%20data%20analyst%20edition.pdf) (JUL 2)
+- [Data Analyst in Power BI by Datacamp](https://github.com/ParichardTrai/Portfolio/blob/main/Certificates/Data%20Analyst%20in%20Power%20BI%20by%20Datacamp.pdf) (JUN 2024)
+- [Data Science Bootcamp by DataRockie](https://github.com/ParichardTrai/Portfolio/blob/main/Certificates/Data%20Science%20Bootcamp%20by%20DataRockie.png)  (MAR 2024)
+  
+
+  
+# Contacts
+Email : Parichard.tra@gmail.com
 
