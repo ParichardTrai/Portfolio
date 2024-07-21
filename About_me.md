@@ -25,7 +25,6 @@ This is a repository to showcase skills, share projects and track my progress in
   - Power Bi Project
     - [HR Analytics](https://github.com/ParichardTrai/Portfolio/blob/main/About_me.md#HR-Analytics)
     - [Customer Churn Analysis](https://github.com/ParichardTrai/Portfolio/blob/main/About_me.md#Customer-Churn-Analysis)
-  - Excel Project
 - [Education](https://github.com/ParichardTrai/Portfolio/blob/main/About_me.md#Education)
 - [Certificates](https://github.com/ParichardTrai/Portfolio/blob/main/About_me.md#Certificates)
 - [Contact](https://github.com/ParichardTrai/Portfolio/blob/main/About_me.md#Contact)
