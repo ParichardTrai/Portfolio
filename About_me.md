@@ -8,7 +8,7 @@ During my studies, I acquired skills in database management, information retriev
 I apply my knowledge effectively in my position. For instance, I am responsible for preparing monthly reports on policy renewals and gathering various pieces of information 
 to assess potential risks and determine eligibility for insurance coverage.
 
-In my free time, I enjoy exploring new data analysis tools and techniques and am continually seeking opportunities to expand my knowledge and skills. 
+In my free time, I enjoy exploring new data analysis tools and techniques and I am continually seeking opportunities to expand my knowledge and skills. 
 Through my work and extracurricular activities, I have gained valuable experience in data analysis, time management, teamwork, and communication.
 
 This is a repository to showcase skills, share projects and track my progress in Data Analytics 
