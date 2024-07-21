@@ -17,3 +17,79 @@ This is a repository to showcase skills, share projects and track my progress in
 ## Table of Contents 
 
 - [About](https://github.com/ParichardTrai/Portfolio/blob/main/About_me.md#about)
+- [Portfolio Projects](https://github.com/ParichardTrai/Portfolio/blob/main/About_me.md#Portfolio-Projects)
+  - Social listening Project
+    - [Real estate Analysis](https://github.com/ParichardTrai/Portfolio#Real-estate-Analysis)  
+  - SQL Project
+    - [RFM Analysis](https://github.com/ParichardTrai/Portfolio#RFM-Analysis)
+  - Power Bi Project
+    - [HR Analytics](https://github.com/ParichardTrai/Portfolio#HR-Analytics)
+    - [Customer Churn Analysis](https://github.com/ParichardTrai/Portfolio#Customer-Churn-Analysis)
+    
+# Portfolio Projects
+
+# Social listening Project
+
+## Real estate Analysis 
+
+**Visualization:** 
+
+**Presentation:** 
+
+**Goal:** Analyze the overall performance of the brand from March 26 to April 7.
+
+**Description:** This project is an extension of the experience gained from participating in an externship.
+The project focused on analyzing a dataset of Sansiri brand between From March 26 to April 7, 2024.The dataset included 
+account, message, direct_url,	post_url,	source,	post_time,	category,	comment_count and	Sentiment	topic. The Project involved
+cleaning and preprocessing, Conversation Analysis, Labeling sentiment analysis, Categorized Data,Data Visualization and Insight Summary.
+
+**Skills:** data cleaning, data analysis and data visualization.
+
+**Tool:** Google Sheet, Power Bi and Canva
+
+# SQL Project
+
+## RFM Analysis 
+
+**Code:** 
+
+**Visualization:** 
+
+**Goal:**  To understand customer behavior and accurately target marketing efforts for each customer segment.
+
+**Description:** The dataset contains all the transactions occurring between 01/12/2010 and 09/12/2011.The Project involved
+Data loading, Data cleaning and Preprocessing, Data analysis and Data Visualization
+
+**Skills:**  DML(Data Manipulation Language), DQL (Data Query Language), DDL (Data Definition Language),
+Data cleaning, Data analysis and Data visualization.
+
+**Tool:** PostgreSQL and Power Bi 
+
+# Power Bi Project
+
+## HR Analytics 
+
+**Visualization:** 
+
+**Goal:**  To help the organization determine what action they will need to take to retain more employees.
+
+**Description:** The dataset contains employees information at software company. The Project involved loading the data, 
+Data Modelling, performing exploratory data analysis (EDA), Data analysis and Data Visualization.
+
+**Skills:**  Data Modelling, Data Analysis Expression (DAX),  Data analysis and Data visualization
+
+**Tool:** Power Bi 
+
+## Customer Churn Analysis
+
+**Visualization:** 
+
+**Goal:** To finding how to reduce churning 
+
+**Description:** The dataset contains customers information at telecom company The Project involved loading the data, 
+Data Modelling, performing exploratory data analysis (EDA), Data analysis and Data Visualization.
+
+**Skills:**  Data Modelling, Data Analysis Expression (DAX),  Data analysis and Data visualization
+
+**Tool:** Power Bi 
+
