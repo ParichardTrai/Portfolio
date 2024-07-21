@@ -66,7 +66,7 @@ Data cleaning, Data analysis and Data visualization.
 
 ## HR Analytics 
 
-**Visualization:** 
+**Visualization:** [HR Analytics](https://github.com/ParichardTrai/Portfolio/blob/main/project/HR%20Analytic.pbix)
 
 **Goal:**  To help the organization determine what action they will need to take to retain more employees.
 
@@ -79,7 +79,7 @@ Data Modelling, performing exploratory data analysis (EDA), Data analysis and Da
 
 ## Customer Churn Analysis
 
-**Visualization:** 
+**Visualization:** [Customer Churn Analysis](https://github.com/ParichardTrai/Portfolio/blob/main/project/Customer%20Churn%20Analysis.pbix)
 
 **Goal:** To finding how to reduce churning 
 
@@ -94,6 +94,7 @@ Data Modelling, performing exploratory data analysis (EDA), Data analysis and Da
 **Thammasart University**
 AUG 2020 - DEC 2023
 - Bachelor of Arts Program in Library and Information Science
+  
 **Suksanareewittaya School**
 2013-2018
 
