@@ -33,7 +33,8 @@ This is a repository to showcase skills, share projects and track my progress in
 
 ## Real estate Analysis 
 
-**Visualization:** [Real Estate Analysis](https://github.com/ParichardTrai/Portfolio/blob/main/project/Real%20Estate%20Analysis.pbix)
+**Visualization:** [Real Estate Analysis - Power BI](https://github.com/ParichardTrai/Portfolio/blob/main/project/Real%20Estate%20Analysis.pbix)
+[Real Estate Analysis - PDF](https://github.com/ParichardTrai/Portfolio/blob/main/project/Real%20Estate%20Analysis.pdf)
 
 **Presentation:** [Real Estate Analysis Presentation](https://github.com/ParichardTrai/Portfolio/blob/main/project/Real%20Estate%20Analysis%20Presentation.pdf)
 
@@ -52,8 +53,8 @@ cleaning and preprocessing, Conversation Analysis, Labeling sentiment analysis, 
 
 **Code:** [RFM Analysis with SQL](https://github.com/ParichardTrai/Portfolio/blob/main/project/RFM%20Analysis%20with%20SQL.md)
 
-**Visualization:** [RFM Analysis](https://github.com/ParichardTrai/Portfolio/blob/main/project/RFM%20Analysis.pbix)
-
+**Visualization:** [RFM Analysis - Power BI](https://github.com/ParichardTrai/Portfolio/blob/main/project/RFM%20Analysis.pbix)
+[RFM Analysis - PDF](https://github.com/ParichardTrai/Portfolio/blob/main/project/RFM%20Analysis.pdf)
 **Goal:**  To understand customer behavior and accurately target marketing efforts for each customer segment.
 
 **Description:** The dataset contains all the transactions occurring between 01/12/2010 and 09/12/2011.The Project involved
@@ -67,7 +68,8 @@ Data cleaning, Data analysis and Data visualization.
 
 ## HR Analytics 
 
-**Visualization:** [HR Analytics](https://github.com/ParichardTrai/Portfolio/blob/main/project/HR%20Analytic.pbix)
+**Visualization:** [HR Analytics- Power BI](https://github.com/ParichardTrai/Portfolio/blob/main/project/HR%20Analytic.pbix)
+[HR Analytics- PDF](https://github.com/ParichardTrai/Portfolio/blob/main/project/HR%20Analytic.pdf)
 
 **Goal:**  To help the organization determine what action they will need to take to retain more employees.
 
@@ -80,7 +82,8 @@ Data Modelling, Performing Exploratory Data analysis (EDA), Data analysis and Da
 
 ## Customer Churn Analysis
 
-**Visualization:** [Customer Churn Analysis](https://github.com/ParichardTrai/Portfolio/blob/main/project/Customer%20Churn%20Analysis.pbix)
+**Visualization:** [Customer Churn Analysis- Power BI](https://github.com/ParichardTrai/Portfolio/blob/main/project/Customer%20Churn%20Analysis.pbix)
+[Customer Churn Analysis- PDF](https://github.com/ParichardTrai/Portfolio/blob/main/project/Customer%20Churn%20Analysis.pdf)
 
 **Goal:** To finding how to reduce churning 
 
