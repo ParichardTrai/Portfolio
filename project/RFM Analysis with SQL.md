@@ -1,5 +1,13 @@
 # RFM Analysis with SQL
 
+**Table of Content**
+- [what is RFM Analysis](https://github.com/ParichardTrai/Portfolio/blob/main/project/what-is-RFM-Analysis)
+- [Dataset]
+- [Clean data Code]
+- [RFM Analysis Code]
+- [Conclusion]
+
+
 ## what is RFM Analysis ?
 
 RFM Analysis is a marketing technique for ranking and grouping customers from their recent transactions to identify the best customers and perform targeted marketing campaigns.
