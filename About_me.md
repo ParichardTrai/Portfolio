@@ -71,7 +71,7 @@ Data cleaning, Data analysis and Data visualization.
 **Goal:**  To help the organization determine what action they will need to take to retain more employees.
 
 **Description:** The dataset contains employees information at software company. The Project involved loading the data, 
-Data Modelling, performing exploratory data analysis (EDA), Data analysis and Data Visualization.
+Data Modelling, Performing Exploratory Data analysis (EDA), Data analysis and Data Visualization.
 
 **Skills:**  Data Modelling, Data Analysis Expression (DAX),  Data analysis and Data visualization
 
@@ -84,18 +84,18 @@ Data Modelling, performing exploratory data analysis (EDA), Data analysis and Da
 **Goal:** To finding how to reduce churning 
 
 **Description:** The dataset contains customers information at telecom company The Project involved loading the data, 
-Data Modelling, performing exploratory data analysis (EDA), Data analysis and Data Visualization.
+Performing Exploratory Data analysis (EDA), Data analysis and Data Visualization.
 
-**Skills:**  Data Modelling, Data Analysis Expression (DAX),  Data analysis and Data visualization
+**Skills:**  Data Analysis Expression (DAX),  Data analysis and Data visualization
 
 **Tool:** Power Bi 
 
 # Education
-**Thammasart University**
+- **Thammasart University**
 AUG 2020 - DEC 2023
-- Bachelor of Arts Program in Library and Information Science
+Bachelor of Arts Program in Library and Information Science
   
-**Suksanareewittaya School**
+- **Suksanareewittaya School**
 2013-2018
 
 # Certificates
