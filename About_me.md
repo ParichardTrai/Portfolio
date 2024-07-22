@@ -57,6 +57,7 @@ cleaning and preprocessing, Conversation Analysis, Labeling sentiment analysis, 
 **Visualization:** 
 - [RFM Analysis - Power BI](https://github.com/ParichardTrai/Portfolio/blob/main/project/RFM%20Analysis.pbix)
 - [RFM Analysis - PDF](https://github.com/ParichardTrai/Portfolio/blob/main/project/RFM%20Analysis.pdf)
+- 
 **Goal:**  To understand customer behavior and accurately target marketing efforts for each customer segment.
 
 **Description:** The dataset contains all the transactions occurring between 01/12/2010 and 09/12/2011.The Project involved
