@@ -1,11 +1,11 @@
 # RFM Analysis with SQL
 
 **Table of Content**
-- [What is RFM Analysis](https://github.com/ParichardTrai/Portfolio/edit/main/project/RFM%20Analysis%20with%20SQL.md/What-is-RFM-Analysis)
-- [Dataset]
-- [Clean data Code]
-- [RFM Analysis Code]
-- [Conclusion]
+- What is RFM Analysis
+- Dataset
+- Clean data Code
+- RFM Analysis Code
+- Conclusion
 
 
 ## What is RFM Analysis ?
