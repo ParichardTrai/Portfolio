@@ -64,6 +64,7 @@ Data cleaning, Data analysis and Data visualization.
 
 **Tool:** PostgreSQL and Power Bi 
 
+
 ## HR Analytics 
 
 **Visualization:** [HR Analytics](https://github.com/ParichardTrai/Portfolio/blob/main/project/HR%20Analytic.pbix)
