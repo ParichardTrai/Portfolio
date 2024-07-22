@@ -92,11 +92,11 @@ Performing Exploratory Data analysis (EDA), Data analysis and Data Visualization
 
 # Education
 - **Thammasart University**
-AUG 2020 - DEC 2023
-Bachelor of Arts Program in Library and Information Science
+  - AUG 2020 - DEC 2023
+  - Bachelor of Arts Program in Library and Information Science
   
 - **Suksanareewittaya School**
-2013-2018
+  - 2013-2018
 
 # Certificates
 - [Social Listening - Data Analyst Edition by DataRockie](https://github.com/ParichardTrai/Portfolio/blob/main/Certificates/Socail%20listening%20data%20analyst%20edition.pdf) (JUL 2)
