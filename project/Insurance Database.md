@@ -9,6 +9,7 @@
 
 
 ## ER Diagram
+![Insurance ER diagram](https://github.com/user-attachments/assets/c7384946-efd8-4161-9a37-8092bdbdd9c3)
 
 ## SQL Code
 
