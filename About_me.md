@@ -23,7 +23,7 @@ This is a repository to showcase skills, share projects and track my progress in
   - SQL Project
     - [RFM Analysis](https://github.com/ParichardTrai/Portfolio/blob/main/About_me.md#RFM-Analysis)
     - [Insurance Database on PostgreSQL](https://github.com/ParichardTrai/Portfolio/blob/main/project/Insurance%20Database.md)
-    - [Insurance Database on Replit](https://replit.com/@Parichard12/sqlhomeworkbatch09toon#main.sql)
+    - [Pizza Database on Replit](https://replit.com/@Parichard12/sqlhomeworkbatch09toon#main.sql)
   - Power Bi Project
     - [HR Analytics](https://github.com/ParichardTrai/Portfolio/blob/main/About_me.md#HR-Analytics)
     - [Customer Churn Analysis](https://github.com/ParichardTrai/Portfolio/blob/main/About_me.md#Customer-Churn-Analysis)
